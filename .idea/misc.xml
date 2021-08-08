@@ -5,7 +5,10 @@
       <map>
         <entry key="..\:/Users/sonu/AndroidStudioProjects/CipherTalk/app/src/main/res/layout/activity_main.xml" value="0.20526315789473684" />
         <entry key="..\:/Users/sonu/AndroidStudioProjects/CipherTalk/app/src/main/res/layout/activity_splash_screen.xml" value="0.20526315789473684" />
-        <entry key="..\:/Users/sonu/AndroidStudioProjects/CipherTalk/app/src/main/res/layout/main_screen_navmenu_header.xml" value="0.20526315789473684" />
+        <entry key="..\:/Users/sonu/AndroidStudioProjects/CipherTalk/app/src/main/res/layout/fragment_chats.xml" value="0.24375" />
+        <entry key="..\:/Users/sonu/AndroidStudioProjects/CipherTalk/app/src/main/res/layout/fragment_stories.xml" value="0.24375" />
+        <entry key="..\:/Users/sonu/AndroidStudioProjects/CipherTalk/app/src/main/res/layout/main_screen_navmenu_header.xml" value="0.264" />
+        <entry key="..\:/Users/sonu/AndroidStudioProjects/CipherTalk/app/src/main/res/layout/single_user.xml" value="0.4" />
         <entry key="..\:/Users/sonu/AndroidStudioProjects/CipherTalk/app/src/main/res/menu/main_screen_navmenu.xml" value="0.20526315789473684" />
         <entry key="..\:/Users/sonu/AndroidStudioProjects/CipherTalk/app/src/main/res/menu/toolbar_search_menu.xml" value="0.20526315789473684" />
       </map>

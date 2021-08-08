@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "606278288529",
+    "project_id": "ciphertalk-24e33",
+    "storage_bucket": "ciphertalk-24e33.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:606278288529:android:3cf168027a0382b747eb30",
+        "android_client_info": {
+          "package_name": "com.PradipSahoo7722.ciphertalk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "606278288529-4sfjhess8ivffblikpsj6lmbildp9quv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJ2S-F-a-55JqbOF_iZYVidgyjOVLwFQk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "606278288529-4sfjhess8ivffblikpsj6lmbildp9quv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

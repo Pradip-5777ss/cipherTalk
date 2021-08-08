@@ -1,4 +1,4 @@
-package com.PradipSahoo7722.ciphertalk.SplashScreen;
+package com.PradipSahoo7722.ciphertalk.splashscreen;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -7,7 +7,7 @@ import android.os.Bundle;
 import android.os.Handler;
 import android.widget.ImageView;
 
-import com.PradipSahoo7722.ciphertalk.MainScreen.MainActivity;
+import com.PradipSahoo7722.ciphertalk.MainActivity;
 import com.PradipSahoo7722.ciphertalk.R;
 
 public class SplashScreen extends AppCompatActivity {
