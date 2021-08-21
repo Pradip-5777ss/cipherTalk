@@ -1,9 +1,8 @@
-package com.PradipSahoo7722.ciphertalk.adapters;
+package com.PradipSahoo7722.ciphertalk.Adapters;
 
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.ImageView;
 import android.widget.TextView;
 
 import androidx.annotation.NonNull;
@@ -11,7 +10,6 @@ import androidx.recyclerview.widget.RecyclerView;
 
 import com.PradipSahoo7722.ciphertalk.Model.UserInfoModel;
 import com.PradipSahoo7722.ciphertalk.R;
-import com.squareup.picasso.Picasso;
 
 import java.util.ArrayList;
 

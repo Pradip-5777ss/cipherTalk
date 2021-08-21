@@ -3,6 +3,8 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/sonu/AndroidStudioProjects/CipherTalk/app/src/main/res/drawable/ic_baseline_create_24.xml" value="0.2558974358974359" />
+        <entry key="..\:/Users/sonu/AndroidStudioProjects/CipherTalk/app/src/main/res/drawable/ic_baseline_photo_camera_24.xml" value="0.2558974358974359" />
         <entry key="..\:/Users/sonu/AndroidStudioProjects/CipherTalk/app/src/main/res/layout/activity_main.xml" value="0.20526315789473684" />
         <entry key="..\:/Users/sonu/AndroidStudioProjects/CipherTalk/app/src/main/res/layout/activity_splash_screen.xml" value="0.20526315789473684" />
         <entry key="..\:/Users/sonu/AndroidStudioProjects/CipherTalk/app/src/main/res/layout/fragment_chats.xml" value="0.24375" />

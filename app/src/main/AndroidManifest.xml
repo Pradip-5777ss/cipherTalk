@@ -10,12 +10,12 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.CipherTalk">
         <activity
-            android:name=".splashscreen.SplashScreen"
+            android:name=".SplashScreen.SplashScreen"
             android:exported="true" >
 
         </activity>
         <activity
-            android:name=".MainActivity"
+            android:name=".MainScreen.MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

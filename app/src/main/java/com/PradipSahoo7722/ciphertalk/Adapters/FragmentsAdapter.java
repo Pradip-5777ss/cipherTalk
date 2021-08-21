@@ -1,4 +1,4 @@
-package com.PradipSahoo7722.ciphertalk.adapters;
+package com.PradipSahoo7722.ciphertalk.Adapters;
 
 import androidx.annotation.NonNull;
 import androidx.fragment.app.Fragment;
@@ -6,9 +6,9 @@ import androidx.fragment.app.FragmentManager;
 import androidx.lifecycle.Lifecycle;
 import androidx.viewpager2.adapter.FragmentStateAdapter;
 
-import com.PradipSahoo7722.ciphertalk.fragments.ChatsFragment;
-import com.PradipSahoo7722.ciphertalk.fragments.GroupsFragment;
-import com.PradipSahoo7722.ciphertalk.fragments.StoriesFragment;
+import com.PradipSahoo7722.ciphertalk.Fragments.ChatsFragment;
+import com.PradipSahoo7722.ciphertalk.Fragments.GroupsFragment;
+import com.PradipSahoo7722.ciphertalk.Fragments.StoriesFragment;
 
 public class FragmentsAdapter extends FragmentStateAdapter {
 

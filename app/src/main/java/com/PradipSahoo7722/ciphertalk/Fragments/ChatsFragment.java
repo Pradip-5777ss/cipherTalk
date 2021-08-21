@@ -1,4 +1,4 @@
-package com.PradipSahoo7722.ciphertalk.fragments;
+package com.PradipSahoo7722.ciphertalk.Fragments;
 
 import android.os.Bundle;
 
@@ -12,7 +12,7 @@ import android.view.ViewGroup;
 
 import com.PradipSahoo7722.ciphertalk.Model.UserInfoModel;
 import com.PradipSahoo7722.ciphertalk.R;
-import com.PradipSahoo7722.ciphertalk.adapters.UsersAdapter;
+import com.PradipSahoo7722.ciphertalk.Adapters.UsersAdapter;
 
 import java.util.ArrayList;
 
